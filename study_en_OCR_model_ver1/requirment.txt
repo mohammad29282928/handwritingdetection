@@ -1,0 +1,6 @@
+pytesseract
+easyocr
+Pillow
+paddlepaddle paddleocr
+tensorflow
+calamari-ocr
