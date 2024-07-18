@@ -3,7 +3,9 @@ from PIL import Image
 import numpy as np
 import cv2
 from ultralytics import YOLO
-#link of best.pt file  https://drive.google.com/file/d/1Q0kc8cGETcY0Wg9X-v0SuyvUK_BGe3m_/view?usp=sharing
+#link of best.pt file  https://drive.google.com/file/d/1B7ELaPVjxHcWYaawLfG7nRq1vQvg3d0R/view?usp=sharing
+
+
 # Load the YOLOv8 model
 model = YOLO('best.pt')
 
