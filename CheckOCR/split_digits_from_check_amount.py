@@ -10,7 +10,7 @@ def plot_image(img, title='Image', cmap='gray'):
     plt.show()
 
 # Load the image
-image_path = '/content/perdigits3.png'
+image_path = '/content/perdigits2.jpg'
 image = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
 plot_image(image, 'Original Image')
 
@@ -19,12 +19,12 @@ _, binary_image = cv2.threshold(image, 128, 255, cv2.THRESH_BINARY_INV)
 plot_image(binary_image, 'Binary Image')
 
 # Perform morphological operations to clean the image and highlight vertical lines
-kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (1, 10))
-morph_image = cv2.morphologyEx(binary_image, cv2.MORPH_CLOSE, kernel)
-plot_image(morph_image, 'Morphological Transformation')
+# kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (1, 10))
+# morph_image = cv2.morphologyEx(binary_image, cv2.MORPH_CLOSE, kernel)
+# plot_image(morph_image, 'Morphological Transformation')
 
 # Detect vertical lines using Hough Line Transform
-edges = cv2.Canny(morph_image, 50, 150, apertureSize=3)
+edges = cv2.Canny(binary_image, 50, 150, apertureSize=3)
 lines = cv2.HoughLinesP(edges, 1, np.pi / 180, threshold=100, minLineLength=100, maxLineGap=10)
 
 # Sort detected lines by their x-coordinate
