@@ -1,0 +1,9 @@
+Text: English literature is a glorious inheritance, Confidence: 0.99
+Text: which is open to all-there are no barriers,, Confidence: 0.95
+Text: no coupons, and no restrictions.In the, Confidence: 0.95
+Text: English language and in its great writers., Confidence: 0.98
+Text: there are great riches and treasures, of, Confidence: 0.98
+Text: which, of course, the Bible and Shakespeare, Confidence: 0.94
+Text: stand along on the highest platform., Confidence: 0.94
+Text: WinstonChurchill, Confidence: 0.98
+Text: AZQUOTES, Confidence: 0.99

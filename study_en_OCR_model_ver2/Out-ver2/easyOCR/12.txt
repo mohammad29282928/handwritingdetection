@@ -1,0 +1,90 @@
+Text: Chapter I
+Confidence: 0.421568522924373
+
+Text: "Treats of the Place Where Oliver Twist Was Born and of the
+Confidence: 0.6882867603822153
+
+Text: Circumstances Attending His Birth"
+Confidence: 0.9366893625569926
+
+Text: Among other public buildings in a certain town,which for many
+Confidence: 0.8285952310809781
+
+Text: reasons it will be prudent to refrain from mentioning,and to which I
+Confidence: 0.7886572066773809
+
+Text: will assign no fictitious name,there is one anciently common to
+Confidence: 0.7384988519444929
+
+Text: most towns,
+Confidence: 0.7073453434842637
+
+Text: Or small: to wit,a workhouse; and in this
+Confidence: 0.5498431024039684
+
+Text: workhouse was born; on a
+Confidence: 0.7534192600373345
+
+Text: and date which Ineed not trouble
+Confidence: 0.9030880143647579
+
+Text: to repeat,inasmuch as it can be ofno possible consequence
+Confidence: 0.9042418135175163
+
+Text: to the reader;in this stage ofthe business at all events; the item of
+Confidence: 0.7157626004009497
+
+Text: mortality whose name is prefixed to the head ofthis chapter:
+Confidence: 0.9099671647338139
+
+Text: For a long time after it was ushered into this world of sorrow and
+Confidence: 0.68935459091975
+
+Text: trouble,by the parish surgeon,it remained a matter of considerable
+Confidence: 0.7723116578595721
+
+Text: doubt whether the child
+Confidence: 0.9939566576811918
+
+Text: survive to bear any name at all; in
+Confidence: 0.9054704279858493
+
+Text: which case it is somewhat more than probable that these memoirs
+Confidence: 0.7550840384684001
+
+Text: would never have appeared; Or,if
+Confidence: 0.7948529923572913
+
+Text: had,that being comprised
+Confidence: 0.854277735732197
+
+Text: within a couple of pages;
+Confidence: 0.6490979867600687
+
+Text: would have possessed the inestimable
+Confidence: 0.7195282038862943
+
+Text: merit of being the most concise and faithful specimen of biography
+Confidence: 0.7454742567136738
+
+Text: extant in the literature ofany age Or country:'
+Confidence: 0.8294382696464946
+
+Text: great
+Confidence: 0.7359244495514328
+
+Text: day
+Confidence: 0.9999709556890053
+
+Text: myself
+Confidence: 0.9968809881733287
+
+Text: would
+Confidence: 0.9999709982142018
+
+Text: they
+Confidence: 0.9999674558639526
+
+Text: they
+Confidence: 0.9999921321868896
+

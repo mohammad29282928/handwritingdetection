@@ -1,0 +1,16 @@
+Text: 77, Confidence: 1.00
+Text: Deep Questions, Confidence: 0.99
+Text: About Life, Confidence: 0.99
+Text: 1.WHATISCREATIVITY?, Confidence: 0.94
+Text: 2WHYLETTINGGOISHARD?, Confidence: 0.97
+Text: 3.DOIFORGIVEPEOPLE?, Confidence: 0.92
+Text: 4.DOILOVEPRESTIGE?, Confidence: 0.97
+Text: 5.DOIMAKEEXCUSES?, Confidence: 0.97
+Text: 6.AM IHONESTWITH MYSELF?, Confidence: 0.92
+Text: 7.WHATIFMONEYWASN'TA, Confidence: 0.97
+Text: CONSTRAINT?, Confidence: 0.97
+Text: 8.DOILOVEENOUGH?, Confidence: 0.95
+Text: 9.HOW TOQUANTIFY EFFORT?, Confidence: 0.91
+Text: Click to read all, Confidence: 0.99
+Text: the life questions., Confidence: 0.97
+Text: www.onmycanvas.com, Confidence: 0.99

@@ -1,0 +1,30 @@
+Text: English literature is a glorious inheritance
+Confidence: 0.7586333365562711
+
+Text: which is open to all
+Confidence: 0.5154241601458541
+
+Text: there are no barriers,
+Confidence: 0.9114764464177142
+
+Text: no coupons, and no restrictions: In the
+Confidence: 0.7497309055457837
+
+Text: English language and in its great writers
+Confidence: 0.974299706115904
+
+Text: there are great riches and treasures; of
+Confidence: 0.9512796325834082
+
+Text: which; of course, the Bible and Shakespeare
+Confidence: 0.8918991451475258
+
+Text: stand along on the highest platform:
+Confidence: 0.8565375832123968
+
+Text: Winston Chuhchill
+Confidence: 0.7385297731451393
+
+Text: AZ QUOTES
+Confidence: 0.9362288147899207
+

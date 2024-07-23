@@ -1,0 +1,9 @@
+Text: GOLD gold, Confidence: 0.94
+Text: SILVER silver, Confidence: 0.97
+Text: PINK pink, Confidence: 0.98
+Text: ORANGE orange, Confidence: 0.96
+Text: YELLOW yellow, Confidence: 0.92
+Text: GREEN green, Confidence: 0.97
+Text: BLUE blue, Confidence: 0.95
+Text: PURPLE purple, Confidence: 0.97
+Text: WHITEwhite, Confidence: 0.99

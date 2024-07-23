@@ -1,0 +1,19 @@
+Text: Chapter I, Confidence: 0.99
+Text: "Treats of the Place where Oliver Twist was Born and of the, Confidence: 0.98
+Text: Circumstances Attending His Birth", Confidence: 0.99
+Text: Among other public buildings in a certain town, which for many, Confidence: 0.99
+Text: reasons it will be prudent to refrain from mentioning, and to which I, Confidence: 0.99
+Text: will assign no fictitious name, there is one anciently common to, Confidence: 0.99
+Text: most towns, great or small: to wit, a workhouse; and in this, Confidence: 0.99
+Text: workhouse was born;on a day and date which I need not trouble, Confidence: 0.96
+Text: myself to repeat, inasmuch as it can be of no possible consequence, Confidence: 0.99
+Text: to the reader, in this stage of the business at all events; the item of, Confidence: 0.99
+Text: mortality whose name is prefixed to the head of this chapter., Confidence: 0.97
+Text: For a long time after it was ushered into this world of sorrow and, Confidence: 0.96
+Text: trouble, by the parish surgeon, it remained a matter of considerable, Confidence: 0.99
+Text: doubt whether the child would survive to bear any name at all; in, Confidence: 0.99
+Text: which case it is somewhat more than probable that these memoirs, Confidence: 1.00
+Text: would never have appeared; or,if they had, that being comprised, Confidence: 0.99
+Text: within a couple of pages, they would have possessed the inestimable, Confidence: 0.99
+Text: merit of being the most concise and faithful specimen of biography,, Confidence: 1.00
+Text: extant in the literature of any age or country.", Confidence: 0.98

@@ -1,0 +1,18 @@
+Text: WHEN?
+Confidence: 0.7573768618293002
+
+Text: WHY?
+Confidence: 0.9998019337654114
+
+Text: HOW?
+Confidence: 0.9879793524742126
+
+Text: WHAT?
+Confidence: 0.9997098177323771
+
+Text: WHERE?
+Confidence: 0.7169282317230126
+
+Text: WHO?
+Confidence: 0.989138126373291
+

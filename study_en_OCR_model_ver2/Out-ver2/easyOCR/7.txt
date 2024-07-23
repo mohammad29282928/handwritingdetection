@@ -1,0 +1,60 @@
+Text: 0
+Confidence: 0.01799445501336905
+
+Text: gold
+Confidence: 0.9093506336212158
+
+Text: GOLD
+Confidence: 0.9717087149620056
+
+Text: silver
+Confidence: 0.9964753561384271
+
+Text: SilVEr
+Confidence: 0.4246926477472174
+
+Text: pink
+Confidence: 0.9999940395355225
+
+Text: orange
+Confidence: 0.9995833423996706
+
+Text: PINK
+Confidence: 0.42422327399253845
+
+Text: ORANGE
+Confidence: 0.9920575982468564
+
+Text: yellow
+Confidence: 0.9509294163641745
+
+Text: YELLOW
+Confidence: 0.9592797618726754
+
+Text: green
+Confidence: 0.9999961082220113
+
+Text: GREEN
+Confidence: 0.9982267633372446
+
+Text: blue
+Confidence: 0.9999823570251465
+
+Text: ple
+Confidence: 0.9999986923153217
+
+Text: BLUE
+Confidence: 0.9982433319091797
+
+Text: pur
+Confidence: 0.9999097014700007
+
+Text: PUrPLE
+Confidence: 0.7557363658639491
+
+Text: white
+Confidence: 0.9923444465882542
+
+Text: WHITE
+Confidence: 0.6162416960294681
+

@@ -1,0 +1,18 @@
+Text: Don't look for your
+Confidence: 0.5641110865963416
+
+Text: dreams to become true;
+Confidence: 0.7854132803371003
+
+Text: look to become true
+Confidence: 0.7737663540622256
+
+Text: to your dreams
+Confidence: 0.979888107928103
+
+Text: MICHAEL BECKWITH
+Confidence: 0.9997755931355227
+
+Text: IAMFEARLESSSOUL COM
+Confidence: 0.6904184592687419
+

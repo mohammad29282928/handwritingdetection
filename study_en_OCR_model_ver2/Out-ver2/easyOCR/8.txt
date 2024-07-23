@@ -1,0 +1,42 @@
+Text: ewuen
+Confidence: 0.23640593411604835
+
+Text: Lukom
+Confidence: 0.4141832605729657
+
+Text: il
+Confidence: 0.7427492194125335
+
+Text: seem
+Confidence: 0.5728370547294617
+
+Text: Likl
+Confidence: 0.2941551208496094
+
+Text: al
+Confidence: 0.6440014189172675
+
+Text: is
+Confidence: 0.6993755922211431
+
+Text: dock.
+Confidence: 0.2359239027277122
+
+Text: xkov
+Confidence: 0.7013680338859558
+
+Text: will Je_Jisll
+Confidence: 0.16505682618981005
+
+Text: te
+Confidence: 0.4182860148261697
+
+Text: quide
+Confidence: 0.9441951940354708
+
+Text: way'
+Confidence: 0.29606810212135315
+
+Text: sowL
+Confidence: 0.10937273502349854
+

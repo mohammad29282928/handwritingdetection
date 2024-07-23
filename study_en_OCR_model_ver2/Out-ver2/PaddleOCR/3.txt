@@ -1,0 +1,6 @@
+Text: Don'tlookforyour, Confidence: 0.96
+Text: dreamsto becometrue, Confidence: 0.98
+Text: look to becometrue, Confidence: 0.94
+Text: toyour dreams, Confidence: 0.98
+Text: MICHAEL BECKWITH-IAMFEARL, Confidence: 0.97
+Text: ESSSOULCOM, Confidence: 0.99

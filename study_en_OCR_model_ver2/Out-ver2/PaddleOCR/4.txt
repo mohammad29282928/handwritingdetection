@@ -1,0 +1,25 @@
+Text: CASHBILL, Confidence: 0.88
+Text: SEA ROCK RESTAURANT, Confidence: 0.97
+Text: P.SANKAR, Confidence: 0.98
+Text: Proprieto, Confidence: 0.97
+Text: 4931, Confidence: 0.99
+Text: D226, Confidence: 0.72
+Text: NO", Confidence: 0.52
+Text: Particulars, Confidence: 0.98
+Text: Rate, Confidence: 0.99
+Text: Amount, Confidence: 1.00
+Text: Qty, Confidence: 0.96
+Text: Rs, Confidence: 0.96
+Text: P, Confidence: 0.99
+Text: B.CB, Confidence: 0.58
+Text: 80, Confidence: 0.87
+Text: KU, Confidence: 0.51
+Text: X, Confidence: 0.66
+Text: So, Confidence: 0.54
+Text: QCLOOGS, Confidence: 0.72
+Text: OE, Confidence: 0.55
+Text: 83HO, Confidence: 0.59
+Text: Thank You, Confidence: 0.98
+Text: TOTAL, Confidence: 1.00
+Text: 340, Confidence: 0.67
+Text: Signature, Confidence: 0.99

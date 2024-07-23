@@ -1,0 +1,4 @@
+Text: eren when it seems like, Confidence: 0.83
+Text: all is dark..., Confidence: 0.87
+Text: there willle light, Confidence: 0.90
+Text: to guide your way., Confidence: 0.85

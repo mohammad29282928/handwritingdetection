@@ -1,0 +1,6 @@
+Text: WHAT?, Confidence: 0.98
+Text: WHERE?, Confidence: 1.00
+Text: WHO?, Confidence: 0.91
+Text: WHEN?, Confidence: 0.97
+Text: WHY?, Confidence: 0.98
+Text: HOW?, Confidence: 0.99

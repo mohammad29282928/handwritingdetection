@@ -1,0 +1,30 @@
+Text: COSMOPOLITAN, Confidence: 1.00
+Text: 30a ST GEORGE ST, CHORLEY, Confidence: 0.89
+Text: TELNO:01257233180, Confidence: 0.95
+Text: VAT NO:, Confidence: 0.88
+Text: MC #01, Confidence: 0.86
+Text: REG HAKAN, Confidence: 0.96
+Text: 18-08-202014:15, Confidence: 0.97
+Text: 004080, Confidence: 1.00
+Text: CHECK No.15, Confidence: 0.91
+Text: 3 DIET COKE, Confidence: 0.91
+Text: 8.55, Confidence: 0.99
+Text: 1, Confidence: 0.85
+Text: PT PERONI, Confidence: 0.94
+Text: 4.75, Confidence: 0.99
+Text: FRUIT JUICE, Confidence: 0.94
+Text: 2.10, Confidence: 0.99
+Text: 4OPEN FOOD, Confidence: 0.91
+Text: 75.80, Confidence: 0.99
+Text: EAT OUT, Confidence: 0.93
+Text: -10.00, Confidence: 0.97
+Text: EAT OUT, Confidence: 0.94
+Text: -10.00, Confidence: 0.97
+Text: EAT OUT, Confidence: 0.96
+Text: -10.00, Confidence: 0.96
+Text: EAT OUT, Confidence: 0.94
+Text: -10.00, Confidence: 0.96
+Text: SRVC TL, Confidence: 0.93
+Text: 51.20, Confidence: 0.99
+Text: THANK YOU FOR YOUR CUSTOM, Confidence: 0.93
+Text: SERVICE NOT INCLUDED, Confidence: 0.95

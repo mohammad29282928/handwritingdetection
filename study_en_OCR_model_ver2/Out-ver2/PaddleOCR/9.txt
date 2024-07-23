@@ -1,0 +1,6 @@
+Text: Inspiration, Confidence: 1.00
+Text: comes From within, Confidence: 0.94
+Text: yourself. One has to, Confidence: 0.90
+Text: be POSITIVE When, Confidence: 0.88
+Text: you're positive,, Confidence: 0.98
+Text: good things happen., Confidence: 0.97

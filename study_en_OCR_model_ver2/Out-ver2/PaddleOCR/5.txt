@@ -1,0 +1,11 @@
+Text: THERMAL RECEIPTPRINTER, Confidence: 0.97
+Text: Model:NK260, Confidence: 0.97
+Text: CashDrawer24V1A, Confidence: 0.98
+Text: Paper Width:somm, Confidence: 0.91
+Text: Interface:RS232+USB+LAA, Confidence: 0.91
+Text: Print Speed:300mm/s, Confidence: 0.95
+Text: Command SupportESC/POS, Confidence: 0.95
+Text: Powerlnput24V-2.5A, Confidence: 0.93
+Text: CEFCCBROHS, Confidence: 0.94
+Text: MADE IN CHINA, Confidence: 0.93
+Text: NMB21812270660, Confidence: 0.99

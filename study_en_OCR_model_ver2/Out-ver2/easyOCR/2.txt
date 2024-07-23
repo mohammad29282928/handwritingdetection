@@ -1,0 +1,114 @@
+Text: 77
+Confidence: 0.9999812025573106
+
+Text: Deep Questions
+Confidence: 0.9998347925366581
+
+Text: About Life
+Confidence: 0.9402576685234865
+
+Text: 1
+Confidence: 0.9997334657910528
+
+Text: WHAT
+Confidence: 0.7286668419837952
+
+Text: IS
+Confidence: 0.6491702040330883
+
+Text: CREATIVITY ?
+Confidence: 0.7327126335815511
+
+Text: 2.WHY
+Confidence: 0.7380456158046665
+
+Text: LEtting
+Confidence: 0.6079635151711171
+
+Text: G0
+Confidence: 0.6725880914667146
+
+Text: IS
+Confidence: 0.788458175664748
+
+Text: HARD ?
+Confidence: 0.9790952625760592
+
+Text: 3 .D 0
+Confidence: 0.4521753898276972
+
+Text: FORGIVE
+Confidence: 0.4954715213325503
+
+Text: PEOPLE?
+Confidence: 0.9967374240719699
+
+Text: 4.D 0
+Confidence: 0.7766530209940083
+
+Text: LOVE
+Confidence: 0.32261353731155396
+
+Text: PRE STIGE ?
+Confidence: 0.6555782824419715
+
+Text: 5 . D 0
+Confidence: 0.36800940069638766
+
+Text: MAKE EXCUSES ?
+Confidence: 0.7144255535297257
+
+Text: 6 . AM |
+Confidence: 0.5656864329300979
+
+Text: HoNEST
+Confidence: 0.6234124314754294
+
+Text: WITH
+Confidence: 0.6869866251945496
+
+Text: MYSELF?
+Confidence: 0.9963644780143815
+
+Text: 7
+Confidence: 0.9999468953838798
+
+Text: WHAT IF
+Confidence: 0.8217191347632309
+
+Text: MonEY
+Confidence: 0.8030584962055258
+
+Text: WASN'T A
+Confidence: 0.9367589985626277
+
+Text: CoNSTRAINT?
+Confidence: 0.7626938155411093
+
+Text: 8 . Do | LovE
+Confidence: 0.4510111951475636
+
+Text: ENOUGH ?
+Confidence: 0.6188352323097079
+
+Text: 9 . How
+Confidence: 0.4987846714341502
+
+Text: To
+Confidence: 0.6784621675063546
+
+Text: QUANTIFY
+Confidence: 0.9964287831371423
+
+Text: EFFoRt?
+Confidence: 0.41549886867208846
+
+Text: Click to read all
+Confidence: 0.7617068175620965
+
+Text: the life questions
+Confidence: 0.9981785762835774
+
+Text: www.onmycanvas.com
+Confidence: 0.8558825577201576
+

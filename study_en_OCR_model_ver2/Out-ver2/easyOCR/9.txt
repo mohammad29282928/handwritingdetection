@@ -1,0 +1,54 @@
+Text: (e
+Confidence: 0.06529273918246732
+
+Text: has_bo
+Confidence: 0.3184580914605799
+
+Text: be
+Confidence: 0.9996608190134134
+
+Text: 1)
+Confidence: 0.3866055232411323
+
+Text: things
+Confidence: 0.9466958635061334
+
+Text: Inspiralion
+Confidence: 0.6224052152233477
+
+Text: thin
+Confidence: 0.3176802396774292
+
+Text: wil
+Confidence: 0.9920489192008972
+
+Text: From
+Confidence: 0.9656457901000977
+
+Text: comes
+Confidence: 0.9981144106414
+
+Text: One
+Confidence: 0.9921615293983941
+
+Text: yourself_
+Confidence: 0.5517595679051956
+
+Text: When
+Confidence: 0.9997313022613525
+
+Text: POSITIVE
+Confidence: 0.8158319584055657
+
+Text: positive 
+Confidence: 0.36612045759193773
+
+Text: You're
+Confidence: 0.5966633027462598
+
+Text: happen
+Confidence: 0.9996922679882589
+
+Text: good_
+Confidence: 0.9600807535595746
+

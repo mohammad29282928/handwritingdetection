@@ -1,0 +1,30 @@
+Text: THERMAL RECEIPT PRINTER
+Confidence: 0.8653383447075412
+
+Text: Model:NK260
+Confidence: 0.9819100537339176
+
+Text: Cash Drawer 24V=14
+Confidence: 0.5550104459556936
+
+Text: Paper Width 8Omm
+Confidence: 0.6142807505662867
+
+Text: Print Speed Joomm/s Interface: RS232-USB+LAA
+Confidence: 0.24037107391100418
+
+Text: Power Input: 24V__-2,54Command Support: ESCPOS
+Confidence: 0.2788654705094465
+
+Text: MADE IN CHINA
+Confidence: 0.9712931753471437
+
+Text: (€ Fe CB ROHS
+Confidence: 0.4892278574531676
+
+Text: NMBZ1812270660
+Confidence: 0.9838313810115913
+
+Text: )
+Confidence: 0.4741919648320483
+

@@ -1,0 +1,66 @@
+Text: CASHALA
+Confidence: 0.14733375590973244
+
+Text: SEA ROCK
+Confidence: 0.9992220123904062
+
+Text: Emetanco c
+Confidence: 0.03649372586484441
+
+Text: SANKAR
+Confidence: 0.9996492918570336
+
+Text: 931
+Confidence: 0.6722763180732727
+
+Text: Do2zklzl
+Confidence: 0.11892303310036906
+
+Text: Arqunt
+Confidence: 0.04818237481863022
+
+Text: JatUUd
+Confidence: 0.016373504093090213
+
+Text: 6f4
+Confidence: 0.04842999134425929
+
+Text: 80
+Confidence: 0.9411211937705911
+
+Text: 50
+Confidence: 0.8716061356191512
+
+Text: so
+Confidence: 0.2629650852378721
+
+Text: 7o
+Confidence: 0.4489609480206163
+
+Text: Thank You
+Confidence: 0.7727395437076428
+
+Text: 1s340
+Confidence: 0.21225538263171664
+
+Text: 34
+Confidence: 0.7467350435089999
+
+Text: 0
+Confidence: 0.221691434826071
+
+Text: Signalure
+Confidence: 0.7085587766971122
+
+Text: RESTAURANT
+Confidence: 0.9538547076276558
+
+Text: 4j4JG
+Confidence: 0.09513330665735599
+
+Text: Jaaf
+Confidence: 0.14666883647441864
+
+Text: TOTAL
+Confidence: 0.7000258346655089
+
