@@ -35,6 +35,6 @@ based on test1:
 crnn-vgg16-bn  ->db-mobilenet-v3-large or resnet50 
 
 ## important : three-top best mixture : 
-1- mobileNetv3-large and MASTER
-2- mobileNetv3-large and Vitstr Base
-3- mobileNetv3-large and Parseq
+<p> 1- mobileNetv3-large and MASTER
+<p> 2- mobileNetv3-large and Vitstr Base
+<p> 3- mobileNetv3-large and Parseq
