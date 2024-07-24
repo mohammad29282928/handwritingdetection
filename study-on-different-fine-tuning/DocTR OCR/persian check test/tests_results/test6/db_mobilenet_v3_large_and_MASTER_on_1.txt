@@ -1,0 +1,204 @@
+Document(
+  (pages): [Page(
+    dimensions=(3024, 4032)
+    (blocks): [
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='IT-TTY-IAFYA', confidence=0.49)]
+          ),
+          Line(
+            (words): [
+              Word(value='ARA:', confidence=0.38),
+              Word(value='MAY', confidence=0.46),
+              Word(value='I', confidence=0.26),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='VES', confidence=0.25),
+            Word(value='E', confidence=0.25),
+            Word(value='ICEN', confidence=0.17),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='a', confidence=0.48)]
+          ),
+          Line(
+            (words): [Word(value='de', confidence=0.33)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='a', confidence=0.28),
+            Word(value='A', confidence=0.31),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='de', confidence=0.27)]
+          ),
+          Line(
+            (words): [Word(value='DER', confidence=0.28)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='e.re', confidence=0.14),
+            Word(value='Mra', confidence=0.4),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='A', confidence=0.87)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='PrC', confidence=0.33)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='SAN', confidence=0.2),
+              Word(value='Var', confidence=0.19),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='-', confidence=0.43),
+              Word(value='a', confidence=0.82),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='a', confidence=0.39),
+              Word(value='à', confidence=0.75),
+            ]
+          ),
+          Line(
+            (words): [Word(value='A', confidence=0.37)]
+          ),
+          Line(
+            (words): [
+              Word(value='%', confidence=0.39),
+              Word(value='a', confidence=0.32),
+              Word(value='-', confidence=0.38),
+              Word(value='a', confidence=0.35),
+            ]
+          ),
+          Line(
+            (words): [Word(value=')', confidence=0.47)]
+          ),
+          Line(
+            (words): [
+              Word(value='a', confidence=0.33),
+              Word(value='à', confidence=0.37),
+            ]
+          ),
+          Line(
+            (words): [Word(value='a', confidence=0.41)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='Sov:', confidence=0.69)]
+          ),
+          Line(
+            (words): [Word(value='St', confidence=0.18)]
+          ),
+          Line(
+            (words): [Word(value='GACOPOLENT', confidence=0.23)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='ShyJr', confidence=0.19)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='A', confidence=0.44),
+            Word(value='-', confidence=0.28),
+            Word(value='a', confidence=0.29),
+            Word(value='Al', confidence=0.45),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='DOMB', confidence=0.16),
+            Word(value='a', confidence=0.53),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='18', confidence=0.42),
+            Word(value='S.', confidence=0.2),
+            Word(value='-', confidence=0.88),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='TXISPYVO.', confidence=0.24),
+            Word(value='-BLL', confidence=0.34),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='IR68017000000118067606', confidence=0.9),
+            Word(value='nu', confidence=0.35),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='de', confidence=0.12)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)
