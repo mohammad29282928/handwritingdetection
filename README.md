@@ -3,8 +3,8 @@ In this project, we are going to make a system for the detection and analysis of
 
 
 <img src="https://s8.uupload.ir/files/en-check_5chq.jpg" border="0" alt="آپلود عکس" />
+<img src="https://s8.uupload.ir/files/img_1416_k65z.jpg" border="0" alt="آپلود عکس" width=400 height=400 />
 
-<img src="https://uupload.ir/" target="_blank"><img src="https://s8.uupload.ir/files/img_1416_k65z.jpg" border="0">
 
 codes & outputs links : https://drive.google.com/drive/folders/1EFirZr5TZ7ztUX-LL6bNPQf0lAprLlRU?usp=sharing
 
