@@ -6,6 +6,7 @@ In this project we are going to make a system for detection and analyses documen
 
 <img src="https://uupload.ir/" target="_blank"><img src="https://s8.uupload.ir/files/img_1416_k65z.jpg" border="0">
 
+codes & outputs links : https://drive.google.com/drive/folders/1EFirZr5TZ7ztUX-LL6bNPQf0lAprLlRU?usp=sharing
 
 results: 
 for English digit detection in check Sayadi : 
