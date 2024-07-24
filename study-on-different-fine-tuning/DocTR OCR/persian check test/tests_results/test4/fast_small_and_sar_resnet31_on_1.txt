@@ -1,6 +1,0 @@
-Document(
-  (pages): [Page(
-    dimensions=(3024, 4032)
-    (blocks): []
-  )]
-)
