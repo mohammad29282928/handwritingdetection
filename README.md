@@ -5,3 +5,30 @@ In this project we are going to make a system for detection and analyses documen
 <img src="https://s8.uupload.ir/files/en-check_5chq.jpg" border="0" alt="آپلود عکس" />
 
 <img src="https://uupload.ir/" target="_blank"><img src="https://s8.uupload.ir/files/img_1416_k65z.jpg" border="0">
+
+
+results: 
+for English digit detection in check Sayadi : 
+based on test8:
+vit-large -> db-mobilenet-v3-large or resnet50 
+
+based on test7: 
+parseq -> db-mobilenet-v3-large
+
+based on test6:
+MASTER-> db-mobilenet-v3-large or resnet50 
+
+based on test5:
+vit-small -> db-mobilenet-v3-large
+
+based on test4:
+sar-resnet-31 -> db-mobilenet-v3-large
+
+based on test3:
+crnn_mobilenet_v3_small -> db-mobilenet-v3-large
+
+based on test2:
+crnn_mobilenet_v3_large -> db-mobilenet-v3-large
+
+based on test1:
+crnn-vgg16-bn  ->db-mobilenet-v3-large or resnet50 
