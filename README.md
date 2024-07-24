@@ -9,7 +9,7 @@ In this project we are going to make a system for detection and analyses documen
 codes & outputs links : https://drive.google.com/drive/folders/1EFirZr5TZ7ztUX-LL6bNPQf0lAprLlRU?usp=sharing
 
 results: 
-for English digit detection in check Sayadi : 
+for English digit detection and recognition  in Persian check  
 based on test8:
 vit-large -> db-mobilenet-v3-large or resnet50 
 
