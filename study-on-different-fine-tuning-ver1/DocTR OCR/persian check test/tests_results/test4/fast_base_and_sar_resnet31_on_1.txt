@@ -1,0 +1,31 @@
+Document(
+  (pages): [Page(
+    dimensions=(3024, 4032)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.15)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.41)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='5', confidence=0.24)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.2)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

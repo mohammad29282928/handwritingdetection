@@ -1,0 +1,74 @@
+Document(
+  (pages): [Page(
+    dimensions=(520, 780)
+    (blocks): [
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='-', confidence=0.77)]
+          ),
+          Line(
+            (words): [Word(value='/', confidence=0.97)]
+          ),
+          Line(
+            (words): [Word(value='-', confidence=0.85)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.75)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.5)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='/', confidence=0.69)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.5)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='(', confidence=0.5)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='A', confidence=0.97)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.58)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='-', confidence=0.53)]
+          ),
+          Line(
+            (words): [Word(value='-', confidence=0.42)]
+          ),
+        ]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

@@ -1,0 +1,126 @@
+Document(
+  (pages): [Page(
+    dimensions=(3024, 4032)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [Word(value='IY--YT-/AFYSYS', confidence=0.03)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='OLGI8', confidence=0.0014),
+              Word(value='a', confidence=0.58),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='YIPT', confidence=0.1),
+              Word(value='S', confidence=0.54),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='V', confidence=0.66),
+            Word(value='-', confidence=0.96),
+            Word(value='e', confidence=0.71),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='ARA.', confidence=0.14)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='E.M', confidence=0.0067)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='Y-Y', confidence=0.52),
+            Word(value='IYFATAT', confidence=0.0067),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.71)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='Gire', confidence=0.0096)]
+          ),
+          Line(
+            (words): [Word(value='S', confidence=0.0076)]
+          ),
+          Line(
+            (words): [Word(value='goent,', confidence=2.3e-05)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='711', confidence=0.0064)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='Jyong', confidence=0.011)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='2', confidence=0.27)]
+          ),
+          Line(
+            (words): [Word(value='A', confidence=0.72)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.22)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='TYRATYYA.', confidence=0.0062),
+            Word(value='e', confidence=0.39),
+            Word(value='CSLLI', confidence=0.042),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='9u0R220ond40s', confidence=3.1e-16)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

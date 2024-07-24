@@ -1,0 +1,322 @@
+Document(
+  (pages): [Page(
+    dimensions=(520, 780)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [Word(value='', confidence=0.029)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='-', confidence=0.48),
+            Word(value='o', confidence=0.57),
+            Word(value='oe', confidence=0.05),
+            Word(value='-', confidence=0.24),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='450', confidence=0.73)]
+          ),
+          Line(
+            (words): [
+              Word(value='CHEQUEL', confidence=0.67),
+              Word(value='CARD', confidence=0.83),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='R', confidence=0.11)]
+          ),
+          Line(
+            (words): [Word(value='2', confidence=0.11)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='an', confidence=0.0015)]
+          ),
+          Line(
+            (words): [
+              Word(value='Cae', confidence=0.074),
+              Word(value='2', confidence=0.36),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='a', confidence=0.12),
+              Word(value='Recr', confidence=0.011),
+              Word(value='d', confidence=0.0041),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='ABBEY', confidence=0.62)]
+          ),
+          Line(
+            (words): [Word(value='RATIONAL', confidence=0.029)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='Sa', confidence=0.0037)]
+          ),
+          Line(
+            (words): [Word(value='A', confidence=0.14)]
+          ),
+          Line(
+            (words): [Word(value='-', confidence=0.56)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='3)', confidence=0.18)]
+          ),
+          Line(
+            (words): [Word(value='1L', confidence=0.19)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='%', confidence=0.29)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='ene', confidence=0.00026),
+              Word(value='32', confidence=0.0089),
+            ]
+          ),
+          Line(
+            (words): [Word(value='N', confidence=0.00088)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='0', confidence=0.92)]
+          ),
+          Line(
+            (words): [Word(value='MISS', confidence=0.2)]
+          ),
+          Line(
+            (words): [Word(value='2', confidence=0.97)]
+          ),
+          Line(
+            (words): [Word(value='L', confidence=0.99)]
+          ),
+          Line(
+            (words): [Word(value='0911', confidence=0.99)]
+          ),
+          Line(
+            (words): [Word(value='-', confidence=0.93)]
+          ),
+          Line(
+            (words): [Word(value='70', confidence=0.99)]
+          ),
+          Line(
+            (words): [
+              Word(value='8', confidence=0.62),
+              Word(value='TENTON', confidence=0.64),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='S', confidence=0.00058)]
+          ),
+          Line(
+            (words): [Word(value='Re', confidence=0.0066)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='S', confidence=0.29)]
+          ),
+          Line(
+            (words): [Word(value='30', confidence=0.17)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='Q', confidence=0.94)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.82)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='E', confidence=0.16)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='110', confidence=0.27)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='51', confidence=0.29),
+            Word(value='n', confidence=0.34),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.21)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='CODE', confidence=0.69),
+              Word(value='NUMRES', confidence=0.15),
+            ]
+          ),
+          Line(
+            (words): [Word(value='290126', confidence=0.47)]
+          ),
+          Line(
+            (words): [Word(value='Se', confidence=0.0032)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='Ge', confidence=0.018)]
+          ),
+          Line(
+            (words): [
+              Word(value='AD', confidence=0.63),
+              Word(value='-', confidence=0.53),
+              Word(value='Mara', confidence=0.14),
+            ]
+          ),
+          Line(
+            (words): [Word(value='JIENS', confidence=3.4e-05)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='Rae', confidence=0.00011)]
+          ),
+          Line(
+            (words): [Word(value='', confidence=0.18)]
+          ),
+          Line(
+            (words): [Word(value='e', confidence=0.36)]
+          ),
+          Line(
+            (words): [Word(value='-', confidence=0.057)]
+          ),
+          Line(
+            (words): [Word(value='Se', confidence=0.00041)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='2J', confidence=0.25)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='L', confidence=0.16)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='', confidence=0.53)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.44)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='PeA', confidence=0.0029)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='Rezy', confidence=0.0009)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='/', confidence=0.14)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='ATA', confidence=0.00058)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

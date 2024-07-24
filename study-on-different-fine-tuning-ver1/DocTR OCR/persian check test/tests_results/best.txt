@@ -1,0 +1,3 @@
+
+for English digit detection on Persian check : 
+vit -> resnet50 or mobilenet v3

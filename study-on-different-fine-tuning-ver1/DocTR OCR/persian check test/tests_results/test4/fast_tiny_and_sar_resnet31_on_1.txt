@@ -1,0 +1,265 @@
+Document(
+  (pages): [Page(
+    dimensions=(3024, 4032)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [Word(value='/', confidence=0.48)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.4)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='-', confidence=0.93),
+            Word(value='-', confidence=0.97),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='1', confidence=0.34),
+            Word(value='T', confidence=0.72),
+            Word(value='1', confidence=0.53),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='Iili', confidence=0.29)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='-', confidence=0.84),
+            Word(value='-', confidence=0.24),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='a', confidence=0.48)]
+          ),
+          Line(
+            (words): [Word(value='-', confidence=0.25)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='0', confidence=0.43)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='X', confidence=0.2),
+            Word(value='-', confidence=0.3),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='C', confidence=0.74)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='1', confidence=0.25),
+            Word(value='TT', confidence=0.83),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='1', confidence=0.29)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='0o', confidence=0.32),
+            Word(value='0', confidence=0.32),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='-', confidence=0.58),
+              Word(value='-', confidence=0.65),
+              Word(value='-', confidence=0.36),
+            ]
+          ),
+          Line(
+            (words): [Word(value='-', confidence=0.44)]
+          ),
+          Line(
+            (words): [Word(value='3', confidence=0.63)]
+          ),
+          Line(
+            (words): [Word(value='yud', confidence=0.19)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.37)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='-', confidence=0.51)]
+          ),
+          Line(
+            (words): [Word(value='-', confidence=0.57)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='a', confidence=0.13)]
+          ),
+          Line(
+            (words): [Word(value='-', confidence=0.48)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.62)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value=':', confidence=0.42)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.36)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='M', confidence=0.53)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='IR6', confidence=0.58),
+              Word(value='8', confidence=0.21),
+            ]
+          ),
+          Line(
+            (words): [Word(value='Ui', confidence=0.36)]
+          ),
+          Line(
+            (words): [Word(value='-', confidence=0.41)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='-', confidence=0.31)]
+          ),
+          Line(
+            (words): [Word(value='bereeoooo', confidence=0.21)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='6o', confidence=0.52),
+              Word(value='0', confidence=0.73),
+            ]
+          ),
+          Line(
+            (words): [Word(value='N', confidence=0.3)]
+          ),
+          Line(
+            (words): [Word(value='A', confidence=0.076)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='Dpou', confidence=0.16)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='cuuuuuum', confidence=0.21),
+            Word(value='Luuuuua', confidence=0.16),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='-', confidence=0.45)]
+          ),
+          Line(
+            (words): [Word(value='-', confidence=0.68)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.61)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='I', confidence=0.28)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

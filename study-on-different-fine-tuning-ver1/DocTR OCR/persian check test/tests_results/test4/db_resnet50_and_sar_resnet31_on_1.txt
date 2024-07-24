@@ -1,0 +1,126 @@
+Document(
+  (pages): [Page(
+    dimensions=(3024, 4032)
+    (blocks): [
+      Block(
+        (lines): [Line(
+          (words): [Word(value='IT-----Ayyyyy', confidence=0.15)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='0ubu', confidence=0.11),
+              Word(value='a', confidence=0.61),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='VYf', confidence=0.23),
+              Word(value='S', confidence=0.65),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='-', confidence=0.39),
+            Word(value='-', confidence=0.73),
+            Word(value='A', confidence=0.4),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='A9a..', confidence=0.29)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='LEr', confidence=0.26)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='T-', confidence=0.19),
+            Word(value='Traafo', confidence=0.24),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='*', confidence=0.23)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='Uuv', confidence=0.3)]
+          ),
+          Line(
+            (words): [Word(value='Lu', confidence=0.26)]
+          ),
+          Line(
+            (words): [Word(value='Bouiiii', confidence=0.15)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='(17ry', confidence=0.22)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='Juoo', confidence=0.12)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='2', confidence=0.2)]
+          ),
+          Line(
+            (words): [Word(value='a', confidence=0.51)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.22)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='Tyssyyv.-', confidence=0.22),
+            Word(value=':', confidence=0.39),
+            Word(value='EaL', confidence=0.15),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='RuooooooouttBaaoooooo0000000000', confidence=0.14)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

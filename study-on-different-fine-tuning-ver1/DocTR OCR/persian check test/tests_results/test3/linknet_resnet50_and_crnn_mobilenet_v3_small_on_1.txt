@@ -1,0 +1,75 @@
+Document(
+  (pages): [Page(
+    dimensions=(3024, 4032)
+    (blocks): [
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='', confidence=0.16)]
+          ),
+          Line(
+            (words): [Word(value='1E', confidence=0.36)]
+          ),
+          Line(
+            (words): [Word(value='YIST', confidence=0.19)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='IT--TY-/AFVSYS', confidence=0.4)]
+          ),
+          Line(
+            (words): [
+              Word(value='094-', confidence=0.12),
+              Word(value='TY', confidence=0.39),
+              Word(value='IThOPFOT', confidence=0.012),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='Bule', confidence=0.03)]
+          ),
+          Line(
+            (words): [Word(value='Li', confidence=0.22)]
+          ),
+          Line(
+            (words): [Word(value='secnIe,', confidence=2.7e-06)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='TTY', confidence=0.094)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='TPYYYA..', confidence=0.0012),
+            Word(value='GLLJ', confidence=0.019),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='Ro', confidence=0.5),
+            Word(value='U', confidence=0.25),
+            Word(value='TUM220854780800', confidence=1.1e-08),
+          ]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)

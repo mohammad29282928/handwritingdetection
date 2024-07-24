@@ -1,0 +1,204 @@
+Document(
+  (pages): [Page(
+    dimensions=(3024, 4032)
+    (blocks): [
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='If--T--/FFV4Y', confidence=0.63)]
+          ),
+          Line(
+            (words): [
+              Word(value='010.', confidence=0.85),
+              Word(value='T.Y', confidence=0.72),
+              Word(value='N', confidence=0.59),
+            ]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='V', confidence=0.32),
+            Word(value='E', confidence=0.62),
+            Word(value='LEU', confidence=0.33),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='1', confidence=0.84)]
+          ),
+          Line(
+            (words): [Word(value='1', confidence=0.37)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='ET', confidence=0.48),
+            Word(value='2', confidence=0.34),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='a', confidence=0.27)]
+          ),
+          Line(
+            (words): [Word(value='DR', confidence=0.4)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='F.T', confidence=0.6),
+            Word(value='V..', confidence=0.82),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-', confidence=0.3)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='-YC', confidence=0.41)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [
+              Word(value='12', confidence=0.42),
+              Word(value='Vol', confidence=0.24),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='A', confidence=0.33),
+              Word(value='à', confidence=0.48),
+            ]
+          ),
+          Line(
+            (words): [
+              Word(value='AV', confidence=0.74),
+              Word(value='00', confidence=0.5),
+            ]
+          ),
+          Line(
+            (words): [Word(value='-', confidence=0.53)]
+          ),
+          Line(
+            (words): [
+              Word(value='/', confidence=0.34),
+              Word(value='K', confidence=0.28),
+              Word(value='(', confidence=0.75),
+              Word(value='6', confidence=0.5),
+            ]
+          ),
+          Line(
+            (words): [Word(value='DV', confidence=0.2)]
+          ),
+          Line(
+            (words): [
+              Word(value='IV', confidence=0.25),
+              Word(value='le', confidence=0.52),
+            ]
+          ),
+          Line(
+            (words): [Word(value='R', confidence=0.49)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [
+          Line(
+            (words): [Word(value='swv:', confidence=0.44)]
+          ),
+          Line(
+            (words): [Word(value='Let', confidence=0.32)]
+          ),
+          Line(
+            (words): [Word(value='SFLUAOTEIi', confidence=0.19)]
+          ),
+        ]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='iag2/', confidence=0.17)]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='1', confidence=0.59),
+            Word(value='-', confidence=0.57),
+            Word(value='2', confidence=0.33),
+            Word(value='4', confidence=0.49),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='urmi', confidence=0.28),
+            Word(value='1', confidence=0.32),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='18', confidence=0.8),
+            Word(value='3...-', confidence=0.53),
+            Word(value='-', confidence=0.74),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='TYSPrYV..', confidence=0.59),
+            Word(value='SLL', confidence=0.63),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [
+            Word(value='IR580170000000118867606', confidence=0.85),
+            Word(value='NU', confidence=0.56),
+          ]
+        )]
+        (artefacts): []
+      ),
+      Block(
+        (lines): [Line(
+          (words): [Word(value='1', confidence=0.28)]
+        )]
+        (artefacts): []
+      ),
+    ]
+  )]
+)
