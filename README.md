@@ -1,5 +1,5 @@
 # handwritingdetection
-In this project we are going to make a system for detection and analyses documents which most of them are hand writing.
+In this project, we are going to make a system for the detection and analysis of documents most of which are written.
 
 
 <img src="https://s8.uupload.ir/files/en-check_5chq.jpg" border="0" alt="آپلود عکس" />
@@ -11,7 +11,7 @@ codes & outputs links : https://drive.google.com/drive/folders/1EFirZr5TZ7ztUX-L
 results: 
 for English digit detection and recognition  in Persian check  
 based on test8:
-vit-large -> db-mobilenet-v3-large or resnet50 
+vit-base -> db-mobilenet-v3-large or resnet50 
 
 based on test7: 
 parseq -> db-mobilenet-v3-large
