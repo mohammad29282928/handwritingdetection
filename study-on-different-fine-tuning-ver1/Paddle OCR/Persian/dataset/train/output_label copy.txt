@@ -1,0 +1,79 @@
+/Users/hmi/Documents/perset/11.png        تابع بازگشتی بنوسید که
+/Users/hmi/Documents/perset/12.png        استاد کریم حیدری
+/Users/hmi/Documents/perset/13.png        طراحی الگوریتم
+/Users/hmi/Documents/perset/14.jpg        آرین بهدادی
+/Users/hmi/Documents/perset/15.jpg        آقای افشین بهدادی
+/Users/hmi/Documents/perset/16.jpg        در وجه آقای بیگی
+/Users/hmi/Documents/perset/17.jpg        در وجه آقای بیگی
+/Users/hmi/Documents/perset/18.jpg        در وجه حاج مهدی یوسفی
+/Users/hmi/Documents/perset/19.jpg        در وجه حاج  حسین صغری
+/Users/hmi/Documents/perset/20.jpg        در وجه انجمن عایق و رطوبتی
+/Users/hmi/Documents/perset/21.jpg        در وجه آقای بیگی
+/Users/hmi/Documents/perset/22.jpg        در وجه آقای بیگی
+/Users/hmi/Documents/perset/23.jpg        در وجه آقای بیگی
+/Users/hmi/Documents/perset/24.jpg        در وجه آقای جلالی
+/Users/hmi/Documents/perset/25.jpg        در وجه آقای جلالی
+/Users/hmi/Documents/perset/26.jpg        در وجه خانم  ابولحسنی  بابت تسویه
+/Users/hmi/Documents/perset/27.jpg        در وجه شرکت کشتیرانی حافظ
+/Users/hmi/Documents/perset/28.jpg        در وجه شرکت کشتیرانی حافظ
+/Users/hmi/Documents/perset/29.jpg        در وجه گستر گام بهروز
+/Users/hmi/Documents/perset/30.jpg        در وجه گستر گام بهروز
+/Users/hmi/Documents/perset/31.jpg        در وجه گستر گام بهروز
+/Users/hmi/Documents/perset/32.jpg        در وجه گستر گام بهروز
+/Users/hmi/Documents/perset/33.jpg        در وجه گستر گام بهروز دلیجان
+/Users/hmi/Documents/perset/34.jpg        در وجه گستر گام بهروز دلیجان
+/Users/hmi/Documents/perset/35.jpg        در وجه گستر گام بهروز دلیجان
+/Users/hmi/Documents/perset/36.jpg        در وجه گستر گام بهروز
+/Users/hmi/Documents/perset/37.jpg        در وجه گستر گام بهروز دلیجان
+/Users/hmi/Documents/perset/38.jpg        در وجه عامل
+/Users/hmi/Documents/perset/39.jpg        در وجه گستر گام بهروز
+/Users/hmi/Documents/perset/40.jpg        در وجه آقای رضایی
+/Users/hmi/Documents/perset/41.jpg        در وجه حاج  حسین صغری
+/Users/hmi/Documents/perset/42.jpg        در وجه ارا ر
+/Users/hmi/Documents/perset/43.jpg        در وجه انجمن عایق و رطوبتی
+/Users/hmi/Documents/perset/44.jpg        در وجه آقای بیگی
+/Users/hmi/Documents/perset/45.jpg        در وجه حاج مهدی یوسفی
+/Users/hmi/Documents/perset/46.jpg        در وجه آقای بیگی
+/Users/hmi/Documents/perset/47.jpg        در وجه خانم  ابولحسنی  بابت تسویه
+/Users/hmi/Documents/perset/48.jpg        در وجه خانم  ابولحسنی  بابت تسویه
+/Users/hmi/Documents/perset/49.jpg        در وجه آقای بیگی
+/Users/hmi/Documents/perset/50.jpg        در وجه آقای بیگی
+/Users/hmi/Documents/perset/51.png        روی خود مثال
+/Users/hmi/Documents/perset/53.png        پارامتر های ورودی
+/Users/hmi/Documents/perset/56.png        هم رشد
+/Users/hmi/Documents/perset/57.png        فرمول جمع اعداد
+/Users/hmi/Documents/perset/58.png        حل سوال
+/Users/hmi/Documents/perset/71.png        رابطه بازگشتی
+/Users/hmi/Documents/perset/72.png        به صورت
+/Users/hmi/Documents/perset/73.png        انواع روش حل مسئله:
+/Users/hmi/Documents/perset/75.png        ضرب ماتریس
+/Users/hmi/Documents/perset/76.png        بنابراین این
+/Users/hmi/Documents/perset/77.png        این روش
+/Users/hmi/Documents/perset/78.png        به روش
+/Users/hmi/Documents/perset/79.png        دو ماتریس
+/Users/hmi/Documents/perset/80.png        ضرب دو چندجمله ای
+/Users/hmi/Documents/perset/82.png        بهترین حالت
+/Users/hmi/Documents/perset/83.png        جست وجو دودویی:
+/Users/hmi/Documents/perset/84.png        شده باشد
+/Users/hmi/Documents/perset/87.png        با تابع درهم ساز
+/Users/hmi/Documents/perset/89.png        درهم ساز
+/Users/hmi/Documents/perset/90.png        با تابع
+/Users/hmi/Documents/perset/91.png        جواب میدهد
+/Users/hmi/Documents/perset/92.png        دیتا خوب
+/Users/hmi/Documents/perset/93.png        واحد است
+/Users/hmi/Documents/perset/95.png        یک کوله پشتی
+/Users/hmi/Documents/perset/96.png        حل این مسئله
+/Users/hmi/Documents/perset/97.png        کوله پشتی
+/Users/hmi/Documents/perset/98.png        اجسام با وزن کمتر
+/Users/hmi/Documents/perset/99.png        ابتدا انتخاب شوند
+/Users/hmi/Documents/perset/100.png        الگوریتم پیچدگی زمانی
+/Users/hmi/Documents/perset/101.png        مرتب سازی اولیه
+/Users/hmi/Documents/perset/102.png        به دلیل
+/Users/hmi/Documents/perset/103.png         فعالیت ها
+/Users/hmi/Documents/perset/104.png        زمان بندی
+/Users/hmi/Documents/perset/105.png        در این صورت
+/Users/hmi/Documents/perset/107.png        نویسنده : هادی یوسفی
+/Users/hmi/Documents/perset/108.png        برنامه سای پیشرفته
+/Users/hmi/Documents/perset/109.png        جلسه 2
+/Users/hmi/Documents/perset/110.png        حل ریاضی:
+/Users/hmi/Documents/perset/111.png        الگوریتم بازگشتی

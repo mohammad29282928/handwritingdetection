@@ -1,0 +1,9 @@
+/Users/hmi/Documents/perset/2.png	انواع روش های مقایسه الگوریتم ها 
+/Users/hmi/Documents/perset/3.png	به سخت افزار بستگی دارد 
+/Users/hmi/Documents/perset/4.png	چه کوچک تاثیر ندارد 
+/Users/hmi/Documents/perset/5.png	انواع ساختمان 
+/Users/hmi/Documents/perset/6.png	جدول درهم ساز
+/Users/hmi/Documents/perset/7.png	بهترین الگوریتم 
+/Users/hmi/Documents/perset/8.png	عدد یک تا پنج را جمع کنید 
+/Users/hmi/Documents/perset/9.png	زبان خاصی مد نظر نیست 
+/Users/hmi/Documents/perset/10.png	ارقام آن را بر می گرداند
