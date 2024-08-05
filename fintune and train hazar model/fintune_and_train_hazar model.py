@@ -38,7 +38,7 @@ train_config = TrainerConfig(
     task="image2text",
     device="cuda",
     batch_size=8,
-    num_epochs=1000,
+    num_epochs=20,
     metrics=["cer"],
     metric_for_best_model="cer"
 )
