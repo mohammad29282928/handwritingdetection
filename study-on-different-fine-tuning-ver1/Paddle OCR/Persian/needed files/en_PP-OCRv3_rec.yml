@@ -1,20 +1,20 @@
 Global:
   debug: false
   use_gpu: false  # Set to true if you have a GPU available
-  epoch_num: 2
-  log_smooth_window: 20
+  epoch_num: 40
+  log_smooth_window: 4
   print_batch_step: 2
   save_model_dir: /content/log-models
   save_epoch_step: 2
   eval_batch_step: [0, 2]
   cal_metric_during_train: true
-  pretrained_model: ""  # Provide a valid path if you have a pretrained model
+  pretrained_model: /content/pre-trained/best_accuracy  # Provide a valid path if you have a pretrained model
   checkpoints: ""  # Provide a valid path if you have checkpoints
-  save_inference_dir: ""
+  save_inference_dir: /content/infer_model
   use_visualdl: false
   infer_img: /content/data/test
   character_dict_path: /content/fa_dict.txt
-  max_text_length: &max_text_length 25
+  max_text_length: &max_text_length 40
   infer_mode: false
   use_space_char: true
   distributed: true
@@ -86,7 +86,7 @@ Train:
       - RecConAug:
           prob: 0.5
           ext_data_num: 2
-          image_shape: [48, 320, 3]
+          image_shape: [3,48,320]
           max_text_length: *max_text_length
       - RecAug: null
       - MultiLabelEncode: null
@@ -100,7 +100,7 @@ Train:
             - length
             - valid_ratio
   loader:
-    shuffle: true
+    shuffle: false
     batch_size_per_card: 2
     drop_last: true
     num_workers: 4
