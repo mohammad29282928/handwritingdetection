@@ -35,6 +35,27 @@ def convert_image_to_jpeg(input_path, output_folder):
     image = image.convert('RGB')  # Convert the image to RGB format
     output_path = os.path.join(output_folder, f"{os.path.splitext(os.path.basename(input_path))[0]}.jpg")
     image.save(output_path, 'JPEG')  # Save the image as JPEG
+def trim_whitespace(image):
+    """
+    Trim the white space around the image.
+
+    Args:
+    - image: The image to be trimmed.
+
+    Returns:
+    - trimmed_image: The trimmed image.
+    """
+    # Convert image to grayscale
+    gray_image = ImageOps.grayscale(image)
+    # Invert the image
+    inverted_image = ImageChops.invert(gray_image)
+    # Get bounding box of non-black areas
+    bbox = inverted_image.getbbox()
+    # Crop the image to the bounding box
+    trimmed_image = image.crop(bbox)
+    return trimmed_image    
+
+
 
 def convert_pdf_to_images(pdf_path, output_folder, zoom=2):
     """
@@ -54,8 +75,12 @@ def convert_pdf_to_images(pdf_path, output_folder, zoom=2):
             page = pdf_document.load_page(page_num)  # Load the specified page
             matrix = fitz.Matrix(zoom, zoom)  # Create a transformation matrix for zooming
             pix = page.get_pixmap(matrix=matrix)  # Render the page to an image
+            image = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
+
+            # Trim the white space around the image
+            trimmed_image = trim_whitespace(image)
             output_path = os.path.join(output_folder, f"{name}_page_{page_num + 1}.JPEG")
-            pix.save(output_path)  # Save the image as JPEG
+            trimmed_image.save(output_path, 'JPEG') # Save the image as JPEG
         
         print(f'Successfully converted {pdf_path} to images in {output_folder}')
     except Exception as e:
