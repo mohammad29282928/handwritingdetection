@@ -6,3 +6,9 @@ In this script, you can pass Image file to the script and it will be proceed the
 ```bat
 python app.py -i "bloodlab.jpg"
 ```
+
+You can find the space from  here: 
+
+```bat
+  https://huggingface.co/spaces/mohammad2928git/bloodlab
+```
